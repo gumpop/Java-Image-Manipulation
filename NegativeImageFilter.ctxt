@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NegativeImageFilter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NegativeImageFilter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pi
+comment1.target=void\ filter(PixelImage)
+numComments=2

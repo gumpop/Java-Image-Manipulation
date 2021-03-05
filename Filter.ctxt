@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Filter
+comment0.text=\r\n\ Defines\ a\ filter\ method\ to\ modify\ images\r\n\ \r\n\ @author\ Richard\ Dunn\r\n\ @version\ March\ 2,\ 2002\r\n
+comment1.params=theImage
+comment1.target=void\ filter(PixelImage)
+comment1.text=\r\n\ Modify\ the\ image\ according\ to\ your\ algorithm\r\n\ \r\n\ @param\ \ theImage\ The\ image\ to\ modify\r\n
+numComments=2

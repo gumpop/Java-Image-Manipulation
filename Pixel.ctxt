@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pixel
+comment0.text=\r\n\ Represents\ a\ pixel,\ which\ is\ a\ red,\ green,\ and\ blue\ value\r\n\ \r\n\ @author\ Richard\ Dunn\ \r\n\ @version\ March\ 1,\ 2002\r\n
+comment1.params=red\ green\ blue
+comment1.target=Pixel(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pixel\r\n\ Initializes\ the\ pixel\ values;\r\n
+comment2.params=
+comment2.target=int\ getRed()
+comment3.params=
+comment3.target=int\ getGreen()
+comment4.params=
+comment4.target=int\ getBlue()
+comment5.params=value
+comment5.target=void\ setRed(int)
+comment6.params=value
+comment6.target=void\ setGreen(int)
+comment7.params=value
+comment7.target=void\ setBlue(int)
+numComments=8

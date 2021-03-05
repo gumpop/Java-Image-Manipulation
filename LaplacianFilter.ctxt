@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LaplacianFilter
+comment1.params=pi
+comment1.target=void\ filter(PixelImage)
+comment2.params=row\ col\ color\ mat
+comment2.target=int\ calTotal(int,\ int,\ char,\ Pixel[][])
+comment3.params=r\ c\ mat
+comment3.target=boolean\ inBounds(int,\ int,\ Pixel[][])
+numComments=4

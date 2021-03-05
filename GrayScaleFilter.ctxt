@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=GrayScaleFilter
+comment1.params=pi
+comment1.target=void\ filter(PixelImage)
+numComments=2
